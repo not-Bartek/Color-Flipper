@@ -1,0 +1,1 @@
+This is the js project where you can click on the button to get random color from basic colors when you are in the Simple tab or random hex color when you are in the Hex tab
